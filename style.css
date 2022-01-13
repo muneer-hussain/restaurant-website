@@ -327,5 +327,6 @@ navbar/ .navbar {
     .images {
         display: grid;
         grid-template-columns: 1fr;
+        width:75vw;
     }
 }
